@@ -1,2 +1,1 @@
-# data-science-with-ml-ai
-hello this my first repo
+# june-2-
